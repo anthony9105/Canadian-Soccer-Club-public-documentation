@@ -415,6 +415,9 @@ The backend is built with **Python 3.11** using the `Flask` framework, following
   - Team roster and each players individual stats
   - Game history
 - Playoff, current regular season, and historical (week-by-week) `team standings`,
+- `Registration tab` visible for "upcoming leagues"
+  - Includes deep links for easy and quick access (web deep link and mobile deep links seperate)
+  - Used for organizing a new league to see who has registered.  (The list can also be downloaded to a CSV file by an admin)
 
 ### League Images
 <details>
